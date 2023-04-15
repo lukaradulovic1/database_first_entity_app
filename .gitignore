@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/database_first_entity_app/FileContentIndex/3cbb5062-1655-44da-bc34-f8fb11255574.vsidx
+/.vs/database_first_entity_app/FileContentIndex/read.lock
+/Properties/AssemblyInfo.cs
+/Properties
+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/obj/Debug/database_first_entity_app.csproj.AssemblyReference.cache
+/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/database_first_entity_app.sln
+/database_first_entity_app.csproj
+/App.config
